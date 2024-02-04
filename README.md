@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Farhan Ahmad Nurzi
-- 👀 I’m interested in Web and Mobile App Development
-- 🌱 I’m currently learning some of web frameworks
-- 💞️ I’m looking to collaborate on any web or mobile app development projects
-- 📫 How to reach me: `https://www.linkedin.com/in/farhanahmadnurzi/`
+### Do you like my code?
+
+![image](https://github.com/Farhan-slurrp/Farhan-slurrp/assets/58872254/c497c6d4-e5f8-44c6-9aa3-b716e54a2c84)
+
+#### Connect with me: 
+`https://www.linkedin.com/in/farhanahmadnurzi/`
 
 <!---
 Farhan-slurrp/Farhan-slurrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
